@@ -1,8 +1,8 @@
-## wfSpy 2022
+## wfSpy NetCore 8 and newer
 
 ## Update
 
-This version of wfSpy is now available for Visual Studio 2022, converted to .NET Framework 4.8. Basically this refreshed version WORKS. The other ones kind of don't anymore, considering they throw exceptions. So please enjoy this refreshed version.
+This version of wfSpy is now available for Visual Studio 2022, converted to .NET 8.0. 
 
 ## Thank you
 
@@ -14,7 +14,7 @@ wfSpy is the open source Windows Forms spying utility created way back in 2003 b
 
 ## Purpose
 
-It allows you to spy/browse the window hierarchy of a running Windows Forms application (without the need for a debugger) … and to change properties as well.<
+It allows you to spy/browse the window hierarchy of a running Windows Forms application (without the need for a debugger) â€¦ and to change properties as well.<
 
 # Capabilities
 
@@ -25,4 +25,4 @@ Can spy on eiter x86 or x64, but only as compiled.
 Please go to releases to download latest version of the tool
 
 # Last modified
-2022/05/13
+2025/11/12
