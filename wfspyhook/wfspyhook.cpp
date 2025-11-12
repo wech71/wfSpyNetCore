@@ -186,7 +186,7 @@ struct WFAVCommunicationData
 };
 
 //The hook proc
-extern "C" DWORD CALLBACK LocalHookProc(int code, DWORD wParam, LONG lParam)
+extern "C" DWORD CALLBACK LocalHookProc(int code, DWORD wParam, LPARAM lParam)
 {
 	if (code < 0)
 	{

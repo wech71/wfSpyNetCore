@@ -13,8 +13,9 @@
 
 #include <vcclr.h>
 #include <windows.h>
+
 #using <mscorlib.dll>
 #using <system.dll>
-#using <system.windows.forms.dll>
+//#using <system.windows.forms.dll>
 
 #endif //PCH_H

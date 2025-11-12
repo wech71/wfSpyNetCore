@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "wfspy": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}

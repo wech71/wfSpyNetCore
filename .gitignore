@@ -10,3 +10,4 @@ Release/
 *.dll
 *.ncb
 /.vs/wfspy
+.vs/

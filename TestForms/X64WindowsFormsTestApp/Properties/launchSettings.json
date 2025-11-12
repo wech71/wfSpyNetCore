@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "X64WindowsFormsTestApp": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
