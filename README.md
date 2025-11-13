@@ -2,6 +2,8 @@
 
 ## Update
 
+# WARNING! Incomplete. Does not yet work 
+
 This version of wfSpy is now available for Visual Studio 2022, converted to .NET 8.0. 
 
 ## Thank you
